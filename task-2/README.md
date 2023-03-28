@@ -1,0 +1,1 @@
+Got to learn about text recognition using PyTesseract in Python. The code is a basic implementation of reading text from image.

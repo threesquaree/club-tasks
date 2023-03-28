@@ -1,0 +1,1 @@
+The CodeForce tasks were harder to implement compared to HackerRank. Few of the problems were therefore referred.

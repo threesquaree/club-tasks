@@ -1,0 +1,1 @@
+It was pretty straightforward. Referred the steps from articles as well.

@@ -1,0 +1,1 @@
+As I've done the Bandit tasks for amfoss-tasks before, it was easy.
